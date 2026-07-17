@@ -1,79 +1,119 @@
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-          ++++++++++++++++++++++++++++++++++++++++++++++++++++++;;;;;+++++++++++++++++++++++++++++++++++++++++++xxxxXXX$$$$&&&&&&&&&&&&          
-          ++x+++++++++++++++++++++++++++++++++++++++++++++++x+xx+xxxxxxxxxxxxxxxx+++++++++++++++++++++++++++++++++++x+x++xx++++++++++xx          
-          +xxxx+x+++++++++++++++++++++++++++++++++++++++x+xx++xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxXXXxXXXXXXXXxxxxxxx++x+xxxxx+++++++++++++          
-          xxxxxxxxx+++++x+++++++++++++++++++++++++++x+xx+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxxxxxXXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxx          
-          xxxxxxxxxxxxxxxxx+xxxxx+x+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxxXxxXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxXxXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXxxXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXxXxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXXXXXXXxXxXXxxxXXXXXXxxxXXxxxxxxxXXXxXXXXXXXXXXXXXXXXXXXXXXxxXxXx++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          ++xX$$XXxxxxxxxxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx;;.             ;;+xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXXXXXxxxx+xx++++;+;;;;;;;;+++xxxXXXXXXXXXXXXXXXXX+:                        .+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXXXXXXXXXXXxxxxxXXxxXXXxxXxx+x$$$X$XXXXXXXXxx+:                               .+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXXXXXXxXXXXXxXxxXxxXXXXXxXXx+x$$$$$$$$$$$$X;                                     ;xxxxXXXX$XXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXXXxXXxXxxxxxxXxXXxxXXXxXXxx;X$$$$$$$$$$$;                                        ;$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          XXXXXXxXxxxxxxXxxXxxxxxxxXxXxXXx+;X$$$$$$$$$X.                                          :$$XXXXXXXXXXXXX$XXXXXXXXXXXXXXXXXXXX          
-          xxxxxxxxxxxxxxxxxxxxxXxxxxXxxxxx+;X$$$$$$$$$.                                             XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxXxxxxxxxxxxxxxxxxxxxxXxxxxxx++;X$$$$$$$$x                                               XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx++;;X$$$$$$$X                                ..::::::.       ;XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxxxxxxxxxxxxxxxxxxxxxxxxxx+++:;$$$$$$$$;                ...         .....::::;;;:.      :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +xXXXx+++++xxxxxxxxxxxxxxxx++++;:+$$$$$$$$;                  ....:::;;:;;::::;;;:::..      :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxx+xx++++++++++++++;;;;;;;:::.+$$$$$$$$;                        .;;;;;::                :XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxxxxxxxxx++xxxxxxx+xx++++++;::x$$$$$$$$:               .:::     .:::::;;:....:::.       :xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          xxxxxxx++xx+xxxxxx++xx+++++++;;::X$$$$$$$$+             ;;: .   :     .:.       : ;x;:    :XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          x++++x++++x++xx+xxxxx+x++++++;;::X$$$$$$$$x  .        ..:::::::       .::     .::::;+;    X$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +++x++++x+++x++x+x+++++++++++;;::$$$$$$$$$$+...     ..::;;;;;:...:.  .::;..:..::;;+++;  .+$$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +xx+++++++++x++++++++x++++++;;;::$$$$$$$$$$$;.;:    .:+x+;;;+++;:. ..::++;::;;++xXXx+: :x&&$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          x+++++++++++++++++++++++++++;;::;$$$$&$$&&&$$;:...  :+++xx++;+++;:...:;++;:;;;;++xXX$::+&&&$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +x++x+x+x++++++++++++++++++++;;:+&&&&&&&&&&&&&X:::: :;++xXXXX$Xx+;;++++xxxxX+xX$$$$$X+X&&&&$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +xx+x++x++x+++++x++++++++++++;;;:;::;;;;;;;;+++++++::;++XXXX+;;;::.. .:+;::++xX$$&$$XX&&&&&$xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          +++++++++++++++++++++++++++++;;;;;::::............   ;+xxXX;;;::::::::.:;:;;;++X$$$$XXX$$$$$XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          ++;;X$$$$$$XXXXXXXXxxx++++++;;;;;;;:::::::::::::::.  ;+xXXXx;;:....::::::;::::+x$$$$;;;+++xxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-          :;;+X$$$$$$$$$$$$$$$$XXXXXXXXxxxx++++++;;;;;;;;;;;;:  +XXXXx+;;;;;++;;;;++x++++x$$&+;+++++XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          
-             .XXX$$$$$$$$$$$$$$$XX$XXXXXXXxxx+++++++++++++++++: :+XXXx+++++++x++;+XXXXXXXX$&&&&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXXXXXXXXXXXX          
-              +X$$$$$$$$$$$$$$$$$$$$$$XXXX$$&&&&&&&&&&&&&&&&&$;::;;+xx++++;;+;++++;xxx+XX$$$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXXXXXXX          
-             .+X$$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&&+:::;;;;;++;;:;+++xxxxXx;+XX+X&&XX&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXXXXX          
-             :+X$$$$$$$$$$$$$$$$$$$$&&&&&&&&&&&&&&&&&&&&&&&$X+;;;;;;;;;;;::..:;;;;:: :+xxxX&X+&&&&&&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXXXXXXX          
-             ;x$$$$$$XXXXxxxx+++X$$$&&&&&&&&&&&&&&&&&&&&&&&X+$x++:;;;;;;;+;++++++xxxxxXXxxX$XX&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXXXX          
-          . .+$$$&&$+:........::+++&&&&&&&&&&&&&&&&&&&&&&&$X$&XX+:;;++++++++xXXXXXXXXXXX+x$$$$&&&&&&&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXXXXXX          
-          . :X&&&&&$$:::::::::::$&&&&&&&&&&&&&&&&&&&&&&&&&$$&&$&X:;++++++xxxxXXXXXXXXXXx+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXXX          
-          :.+&&&&&&$$:.:::::::::&&&&&&&&&&&&&&&&&&&&&&&&&&$$&&&&&x;++++++xxXXXXXXXXXXxxx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXXX          
-          ::X&&&&&&$$........::;&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&x:;;+;++xxXXXXXXxx++X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXXXXX          
-          ::$&&&&&&$X;: ....:+$X&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&$.::;;;;++++++++::&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXX          
-          :;&&&&&&$$XXX+X;;xx$X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&X..::::::::::.:&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXX          
-          :+&&&&&&$&xXx+XXXXX$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$........ ..X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXXX          
-          :+&&&&&&&&X$$+XXxx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+:......x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXXX          
-          :X&&&&&&$++xX$+XX$X&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXXX          
-          ;$&&&&&&$x+++XXXXx+&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXXX          
-          +&&&&&&&$+.::::;;;&&&&&&&&&&&&&&&&&&&&x&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+&&&&&&X&&&&&&&&&&&&&&&&&&&$XXXXXXXXXXX          
-          ;;;;;;;+++++::::;&&&&&&&&&&&&&&&&&&&&$;$&$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&+X&&&&&$X&&&&&&&&&&&&&&&&&&&&XXXXXXXXXXX          
-          +;;;...      ..:&&&&&&&&&&&&&&&&&&&&&;.X&$XX&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&X;&&&&$$X$$$&&&&&&&&&&&&&&&&&&XXXXXXXXXXX          
-          +;;:....    ...&&&&&&&&&&&&&&&&&&&&&&+.X$$Xx$&&&&&&&&&&&&&&&&&$$$$$&&&&&&&&&&&&&&&$X;x&&$$$$X$$$&&&&&&&&&&&&&&&&&&$XXXXXXXXXX          
-          +++;::::::::::X&&&&&&&&&&&&&&&&&&&&&&$:x$Xx+X$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$$X;;$$$$$$X+$X$&&&&&&&&&&&&&&&&&&$$XXXXXXXXX          
-          +++;:::::::::;X$&&&&&&&&$X&&&&&&&&&$$+ +XX+++X&&&&&&&&&&&&&&&&&&&&&&&&&&&X$&&$+xXx;;+$$XXXXX;XXX&&&&&&&&&&&&&&&&&&&$XXXXXXXXX          
-          ++++;::::::::;$&&&&&&&&&$+$XX$&&&&&$x  ;Xx++++X&&&&&&&&&&&&&&&&&&&&&&&&&&&xXx++;+;;:xXXXXXXx+xxX$&&&&&&&&&&&&&&&&&&&$$XXXXXXX          
-          +++;;;;;;;;:;x$&&&&&&&&&&X:::;;+X$&X. .:xx++;;+X&&&&&&&&&&&&&&&&&&&&&&&&$X++;;;+;++X$$$$$$XXXX$$&&&&&&&&&&&&&&&&&&&&&$$XXXXXX          
-          ++++;;;;;;;;+X$&&&&XX$&&&$$&$;::;++....:+x++;;;+X&&&&&&&&&&&&&&&&&&$+;+$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$XXX&&$$$$$$$$          
-          ++++;;;;;;;;x$&&&&&X;$X+;;;;++XX+:::...:+x++;;;;+X&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$XXXX$$$$$XX$$X$$XX$XX          
-          +x++;;;;;;;+X$&&&&&&++X$$$XX$X+;;;::::.:;++;;;;;;+X&&&&$$$$X$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&;;+X$$&&&&&&&&$$$XX$$$XX$          
-          x+++;;;;;;;X$$$&&&&&&&&&&&&&&&&&&$$$$$$$$$$$$$$$$$$$$$$$$$XX$$&&&&&&&&&&&$$$$$$$$$$$$$$$$$$$$$$$$$&&&+xX$$$$&&&&&&&$$$$$$$$$$          
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
-                                                                                                                                                 
+# 🚀 Welcome to My Profile! 
+
+<p align="center">
+  <samp><strong>"Keep Learning. Keep Building."</strong></samp>
+</p>
+
+```text
+=======================================================================================================   Personal
+                                       DETO / ABDUFATTOH PULATOV                                          --------
+=======================================================================================================   Name           : Abdufattoh Pulatov
+                                                                                                          Nickname       : Deto
+          +++++++++++++++++++++++++++++++x++++++++++++++++++++++++++++++++xx+++xxxXXXXX$$$&&&             Age            : 21
+          xxxx++++++++++++++++++++++++++x+++xxxxxxxxxxxxxxxxxxxxXxXXXXXXXxxx+x++++xx+++++++++             Born           : 27 November 2004
+          xxxxxxx+xx++x+x++x++xx+xx+xxxxxxxxxxxxxxxxxxxxxxxxXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Country        : Uzbekistan
+          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             
+          xXXxxxxxxxxxxxxxxxxxxxxxxxxxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Education
+          XXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+.     ;XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             ---------
+          XXXXXxXxxxxx++++;;;;;+++xx+xxxxXXXX+:                 ;XXXXXXXXXXXXXXXXXXXXXXXXXXXX             University     : Japan Digital University (JDU)
+          XXXXXXXxXXXXxxxxXXXxXx;$$$$$$$$$;                        +XXXXXXXXXXXXXXXXXXXXXXXXX             
+          XXXXXXXxxxxxxxXXXxXxXx;$$$$$$$;                           +$$XXXXXXXXXXXXXXXXXXXXXX             Interests
+          xxxxxxxxxxxxxxxxxXxxx++$$$$$$:                              $XXXXXXXXXXXXXXXXXXXXXX             ---------
+          xxxxxxxxxxxxxxxxxXxx+;+$$$$$+                      ....     :X$XXXXXXXXXXXXXXXXXXXX             - Artificial Intelligence
+          xxxxxxxxxxxxxxxxxxx++:X$$$$$.          .....  ....:::;;:     XXXXXXXXXXXXXXXXXXXXXX             - Reinforcement Learning
+          xxxxx++++++++++;;;;::.X$$$$$                 ;;;;:           XXXXXXXXXXXXXXXXXXXXXX             - Deep Learning
+          xxxxx+xx+xx+xxxx+++;;:$$$$$$         :+:       ...    ;+.   xxXXXXXXXXXXXXXXXXXXXXX             - Computer Vision
+          ++++x++++xxxxx+++++;;:$$$$$$: .    ..:;::.    .:.  .;;;;;  .$xXXXXXXXXXXXXXXXXXXXXX             - AI Agents
+          +x++++++x++++++++++;::$$$$$$$;.;  .:+;;;++;: .:+;.;;++xx+ :&&xXXXXXXXXXXXXXXXXXXXXX             - AI Security
+          x++++++++++++++++++;:;$&&&&&&&x::..;+xxxXXx:::;++;;xXXxXx+&&&xXXXXXXXXXXXXXXXXXXXXX             - Cybersecurity
+          ++x+x++++++x++++++++;;:::::::::;+; ;+xX+;;::. .;.:+xX$&$X&&&&xXXxXXXXXXXXXXXXXXXXXX             - Large Language Models
+          xxxXXXXXXXxx++++++;;;;:::::::::::. ;+XXx;:..:::;;;;;+$$X;;++xXXXXXXXXXXXXXXXXXXXXXX             - RAG Systems
+            :X$$$$$$$$$$XXXXXXxxx++++++++++;: +XXx++;+xxxXXXXxx$&XXXXX$$&&&&&$XXXXXXXXXXXXXXX             - Mobile Game Development
+            :X$$$$$$$$$$$$$$$XX$&&&&&&&&&&&&x::;+x++;++++++x+X$$&&&&&&&&&&&&&&&&$XXXXXXXXXXXX             - Unity Engine
+            ;x$$$$$$$$$$$$$&&&&&&&&&&&&&&&&$+:;;;;;;:.:+XX;.:xxX$+&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Open Source
+            +$$$$+::::::;x+&&&&&&&&&&&&&&&XxXx:;;;;;+++xXXXxXX+$$$&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Linux
+          .:$&&&X:::::::+&&&&&&&&&&&&&&&&&X&&&;;++++xxXXXXXXXx$&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             - System Design
+          ;x&&&&X:..::::X&&&&&&&&&&&&&&&&&$&&&&+;+++xXXXXXXx+&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             
+          :X&&&&$+X:::X+&&&&&&&&&&&&&&&&&&&&&&&&+.:;;;+++;:$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             Programming
+          :&&&&&&X+XXXX&&&&&&&&&&&&&&&&&&&&&$&&&&X.......x&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             -----------
+          :&&&&&&X+XXx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$&&&&&&&&&&&&&$&&&&&&&&&&&&&&&$XXXXXXXX             Main Language  : C#
+          +&&&&$;::$$;X&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&XXXXXXXX             
+          +XXX$XXXx++&&&&&&&&&&&&&&;&&$&&&&&&&&&&&&&&&&&&&&$&&&&&&$X&&&$&&&&&&&&&&&&&XXXXXXXX             Other Languages
+          ;;: .   ..&&&&&&&&&&&&&&X.$$X$&&&&&&&&&&&&$$&&&&&&&&&&&$+&&$$x$$&&&&&&&&&&&&XXXXXXX             ---------------
+          ++;::::::X&&&&&&&&&&&&&&&:XXxx&&&&&&&&&&&&&&&&&&&&&&$$X;+$$$X+X$&&&&&&&&&&&&$XXXXXX             - JavaScript
+          ++;;:::::X&&&&&&X&$$&&&$; +X++x&&&&&&&&&&&&&&&&&&xX+;;;:XXXXX;XX&&&&&&&&&&&&&$XXXXX             - PHP
+          ++;;;;;:+$&&&&&&&X::;+$+..;x+;;x&&&&&&&&&&&&&&&$++xXX$&&&&&&&&&&&&&&&&&&&&&&&&$$XXX             - SQL
+          ++;;;;;;X&&&&+&x;;;+X+::..;x+;;;x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXX$$$X$$$XX$X             - TypeScript
+          x+;;;;;+$$&&&&+;X$$$$$$$$XXXXX$$$$$$$$$X$&&&&&&&$$$$&&&&&&&&&&&&&&&+X$$&&&&&$$X$$$X             - Dart
+=======================================================================================================
+
+---
+
+## 👤 Personal Profile
+
+- **Name:** Abdufattoh Pulatov (Deto)[cite: 1]
+- **Age:** 21 (Born: November 27, 2004)[cite: 1]
+- **Location:** Uzbekistan 🇺🇿[cite: 1]
+- **Education:** Japan Digital University (JDU) 🎓[cite: 1]
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- **Main:** `C#`[cite: 1]
+- **Others:** `JavaScript`, `TypeScript`, `Dart`, `PHP`, `SQL`[cite: 1]
+
+### 🔧 Frameworks & Tools
+- **Game Dev & Mobile:** Unity, Flutter, React Native[cite: 1]
+- **Backend:** Laravel[cite: 1]
+- **AI & ML:** PyTorch, Ollama, ChromaDB, FAISS, BM25, ONNX, Stable Diffusion, LoRA[cite: 1]
+- **DevOps & General:** Git, Docker, Linux (Fedora)[cite: 1]
+
+### 🎮 Unity Stack
+- **Rendering:** Universal Render Pipeline (URP), Shader Graph[cite: 1]
+- **Animation & Tweening:** DOTween[cite: 1]
+- **Asynchronous & Reactive:** UniTask, UniRx[cite: 1]
+- **Architecture & DI:** VContainer, MVC / MVP[cite: 1]
+
+### 🧠 AI & Machine Learning
+- Reinforcement Learning & ML-Agents[cite: 1]
+- Computer Vision (YOLO)[cite: 1]
+- Large Language Models (LLM) & RAG Systems (Llama Models, Embeddings)[cite: 1]
+- AI Agents[cite: 1]
+
+### 🛡️ Cybersecurity
+- AI Security[cite: 1]
+- Penetration Testing & Threat Detection[cite: 1]
+- Wazuh & n8n[cite: 1]
+
+---
+
+## 💻 Environment & Hardware
+- **OS:** Fedora Linux 💻[cite: 1]
+- **GPU:** NVIDIA GeForce RTX 4060 Laptop ⚡[cite: 1]
+
+---
+
+## 🎯 Current Focus
+* 🚀 Building AI-powered applications[cite: 1]
+* 🔬 Reinforcement Learning research[cite: 1]
+* 🗄️ Local RAG systems[cite: 1]
+* 🤖 Unity AI projects[cite: 1]
+* 👁️ Computer Vision & AI Agents[cite: 1]
+
+---
+
+## 🌐 Languages
+- **Uzbek** (Native)[cite: 1]
+- **English**[cite: 1]
+- **Russian**[cite: 1]
+- **Japanese** (Learning 🇯🇵)[cite: 1]
+
+---
+
+## 🏁 Goals
+- [ ] Become an AI Engineer[cite: 1]
+- [ ] Build intelligent autonomous systems[cite: 1]
+- [ ] Create impactful open-source projects[cite: 1]
+- [ ] Master the intersection of AI, Unity, and Cybersecurity[cite: 1]
