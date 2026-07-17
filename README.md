@@ -24,35 +24,35 @@
 ```text
 =======================================================================================================   
                                        DETO / ABDUFATTOH PULATOV                                          
-=======================================================================================================   Name           : Abdufattoh Pulatov
-                                                                                                          Nickname       : Deto
-          +++++++++++++++++++++++++++++++x++++++++++++++++++++++++++++++++xx+++xxxXXXXX$$$&&&             Age            : 21
-          xxxx++++++++++++++++++++++++++x+++xxxxxxxxxxxxxxxxxxxxXxXXXXXXXxxx+x++++xx+++++++++             Born           : 27 November 2004
-          xxxxxxx+xx++x+x++x++xx+xx+xxxxxxxxxxxxxxxxxxxxxxxxXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Country        : Uzbekistan
+=======================================================================================================   
+                                                                                                          
+          +++++++++++++++++++++++++++++++x++++++++++++++++++++++++++++++++xx+++xxxXXXXX$$$&&&             
+          xxxx++++++++++++++++++++++++++x+++xxxxxxxxxxxxxxxxxxxxXxXXXXXXXxxx+x++++xx+++++++++             
+          xxxxxxx+xx++x+x++x++xx+xx+xxxxxxxxxxxxxxxxxxxxxxxxXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX            
           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-          xXXxxxxxxxxxxxxxxxxxxxxxxxxxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Education
-          XXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+.     ;XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             ---------
-          XXXXXxXxxxxx++++;;;;;+++xx+xxxxXXXX+:                 ;XXXXXXXXXXXXXXXXXXXXXXXXXXXX             University     : Japan Digital University (JDU)
+          xXXxxxxxxxxxxxxxxxxxxxxxxxxxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             
+          XXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+.     ;XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             
+          XXXXXxXxxxxx++++;;;;;+++xx+xxxxXXXX+:                 ;XXXXXXXXXXXXXXXXXXXXXXXXXXXX             
           XXXXXXXxXXXXxxxxXXXxXx;$$$$$$$$$;                        +XXXXXXXXXXXXXXXXXXXXXXXXX
-          XXXXXXXxxxxxxxXXXxXxXx;$$$$$$$;                           +$$XXXXXXXXXXXXXXXXXXXXXX             Interests
-          xxxxxxxxxxxxxxxxxXxxx++$$$$$$:                              $XXXXXXXXXXXXXXXXXXXXXX             ---------
-          xxxxxxxxxxxxxxxxxXxx+;+$$$$$+                      ....     :X$XXXXXXXXXXXXXXXXXXXX             - Artificial Intelligence
-          xxxxxxxxxxxxxxxxxxx++:X$$$$$.          .....  ....:::;;:     XXXXXXXXXXXXXXXXXXXXXX             - Reinforcement Learning
-          xxxxx++++++++++;;;;::.X$$$$$                 ;;;;:           XXXXXXXXXXXXXXXXXXXXXX             - Deep Learning
-          xxxxx+xx+xx+xxxx+++;;:$$$$$$         :+:       ...    ;+.   xxXXXXXXXXXXXXXXXXXXXXX             - Computer Vision
-          ++++x++++xxxxx+++++;;:$$$$$$: .    ..:;::.    .:.  .;;;;;  .$xXXXXXXXXXXXXXXXXXXXXX             - AI Agents
-          +x++++++x++++++++++;::$$$$$$$;.;  .:+;;;++;: .:+;.;;++xx+ :&&xXXXXXXXXXXXXXXXXXXXXX             - AI Security
-          x++++++++++++++++++;:;$&&&&&&&x::..;+xxxXXx:::;++;;xXXxXx+&&&xXXXXXXXXXXXXXXXXXXXXX             - Cybersecurity
-          ++x+x++++++x++++++++;;:::::::::;+; ;+xX+;;::. .;.:+xX$&$X&&&&xXXxXXXXXXXXXXXXXXXXXX             - Large Language Models
-          xxxXXXXXXXxx++++++;;;;:::::::::::. ;+XXx;:..:::;;;;;+$$X;;++xXXXXXXXXXXXXXXXXXXXXXX             - RAG Systems
-            :X$$$$$$$$$$XXXXXXxxx++++++++++;: +XXx++;+xxxXXXXxx$&XXXXX$$&&&&&$XXXXXXXXXXXXXXX             - Mobile Game Development
-            :X$$$$$$$$$$$$$$$XX$&&&&&&&&&&&&x::;+x++;++++++x+X$$&&&&&&&&&&&&&&&&$XXXXXXXXXXXX             - Unity Engine
-            ;x$$$$$$$$$$$$$&&&&&&&&&&&&&&&&$+:;;;;;;:.:+XX;.:xxX$+&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Open Source
-            +$$$$+::::::;x+&&&&&&&&&&&&&&&XxXx:;;;;;+++xXXXxXX+$$$&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Linux
-          .:$&&&X:::::::+&&&&&&&&&&&&&&&&&X&&&;;++++xxXXXXXXXx$&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             - System Design
+          XXXXXXXxxxxxxxXXXxXxXx;$$$$$$$;                           +$$XXXXXXXXXXXXXXXXXXXXXX             
+          xxxxxxxxxxxxxxxxxXxxx++$$$$$$:                              $XXXXXXXXXXXXXXXXXXXXXX             
+          xxxxxxxxxxxxxxxxxXxx+;+$$$$$+                      ....     :X$XXXXXXXXXXXXXXXXXXXX             
+          xxxxxxxxxxxxxxxxxxx++:X$$$$$.          .....  ....:::;;:     XXXXXXXXXXXXXXXXXXXXXX             
+          xxxxx++++++++++;;;;::.X$$$$$                 ;;;;:           XXXXXXXXXXXXXXXXXXXXXX             
+          xxxxx+xx+xx+xxxx+++;;:$$$$$$         :+:       ...    ;+.   xxXXXXXXXXXXXXXXXXXXXXX             
+          ++++x++++xxxxx+++++;;:$$$$$$: .    ..:;::.    .:.  .;;;;;  .$xXXXXXXXXXXXXXXXXXXXXX             
+          +x++++++x++++++++++;::$$$$$$$;.;  .:+;;;++;: .:+;.;;++xx+ :&&xXXXXXXXXXXXXXXXXXXXXX             
+          x++++++++++++++++++;:;$&&&&&&&x::..;+xxxXXx:::;++;;xXXxXx+&&&xXXXXXXXXXXXXXXXXXXXXX             
+          ++x+x++++++x++++++++;;:::::::::;+; ;+xX+;;::. .;.:+xX$&$X&&&&xXXxXXXXXXXXXXXXXXXXXX             
+          xxxXXXXXXXxx++++++;;;;:::::::::::. ;+XXx;:..:::;;;;;+$$X;;++xXXXXXXXXXXXXXXXXXXXXXX             
+            :X$$$$$$$$$$XXXXXXxxx++++++++++;: +XXx++;+xxxXXXXxx$&XXXXX$$&&&&&$XXXXXXXXXXXXXXX             
+            :X$$$$$$$$$$$$$$$XX$&&&&&&&&&&&&x::;+x++;++++++x+X$$&&&&&&&&&&&&&&&&$XXXXXXXXXXXX             
+            ;x$$$$$$$$$$$$$&&&&&&&&&&&&&&&&$+:;;;;;;:.:+XX;.:xxX$+&&&&&&&&&&&&&&&&XXXXXXXXXXX             
+            +$$$$+::::::;x+&&&&&&&&&&&&&&&XxXx:;;;;;+++xXXXxXX+$$$&&&&&&&&&&&&&&&&XXXXXXXXXXX             
+          .:$&&&X:::::::+&&&&&&&&&&&&&&&&&X&&&;;++++xxXXXXXXXx$&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             
           ;x&&&&X:..::::X&&&&&&&&&&&&&&&&&$&&&&+;+++xXXXXXXx+&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX
-          :X&&&&$+X:::X+&&&&&&&&&&&&&&&&&&&&&&&&+.:;;;+++;:$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             Programming
-          :&&&&&&X+XXXX&&&&&&&&&&&&&&&&&&&&&$&&&&X.......x&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             -----------
+          :X&&&&$+X:::X+&&&&&&&&&&&&&&&&&&&&&&&&+.:;;;+++;:$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             
+          :&&&&&&X+XXXX&&&&&&&&&&&&&&&&&&&&&$&&&&X.......x&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             
           :&&&&&&X+XXx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$&&&&&&&&&&&&&$&&&&&&&&&&&&&&&$XXXXXXXX             
           +&&&&$;::$$;X&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&XXXXXXXX
           +XXX$XXXx++&&&&&&&&&&&&&&;&&$&&&&&&&&&&&&&&&&&&&&$&&&&&&$X&&&$&&&&&&&&&&&&&XXXXXXXX             
