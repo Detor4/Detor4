@@ -164,12 +164,6 @@
 - AI Agents
 - AI Security
 
-### 🛡️ Cybersecurity
-
-- Cybersecurity
-- Penetration Testing & Threat Detection
-- Wazuh & n8n
-
 ### 🎮 Development Interests
 
 - Mobile Game Development
