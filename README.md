@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=AI+Engineer+in+Progress;Unity+%2B+AI+Developer;Cybersecurity+%26+RAG+Enthusiast;Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=AI+Engineer+in+Progress;Unity+%2B+AI+Developer;RAG+Enthusiast;Open+Source+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,46 +22,44 @@
 ## 🖼️ My Profile Art
 
 ```text
-=======================================================================================================   
-                                       DETO / ABDUFATTOH PULATOV                                          
-=======================================================================================================   
-                                                                                                          
-          +++++++++++++++++++++++++++++++x++++++++++++++++++++++++++++++++xx+++xxxXXXXX$$$&&&             
-          xxxx++++++++++++++++++++++++++x+++xxxxxxxxxxxxxxxxxxxxXxXXXXXXXxxx+x++++xx+++++++++             
-          xxxxxxx+xx++x+x++x++xx+xx+xxxxxxxxxxxxxxxxxxxxxxxxXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX            
+=======================================================================================================   Personal
+                                       DETO / ABDUFATTOH PULATOV                                          --------
+=======================================================================================================   Name           : Abdufattoh Pulatov
+                                                                                                          Nickname       : Deto
+          +++++++++++++++++++++++++++++++x++++++++++++++++++++++++++++++++xx+++xxxXXXXX$$$&&&             Age            : 21
+          xxxx++++++++++++++++++++++++++x+++xxxxxxxxxxxxxxxxxxxxXxXXXXXXXxxx+x++++xx+++++++++             Born           : 27 November 2004
+          xxxxxxx+xx++x+x++x++xx+xx+xxxxxxxxxxxxxxxxxxxxxxxxXxxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Country        : Uzbekistan
           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-          xXXxxxxxxxxxxxxxxxxxxxxxxxxxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             
-          XXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+.     ;XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             
-          XXXXXxXxxxxx++++;;;;;+++xx+xxxxXXXX+:                 ;XXXXXXXXXXXXXXXXXXXXXXXXXXXX             
+          xXXxxxxxxxxxxxxxxxxxxxxxxxxxXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             Education
+          XXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXXXXXXX+.     ;XxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX             ---------
+          XXXXXxXxxxxx++++;;;;;+++xx+xxxxXXXX+:                 ;XXXXXXXXXXXXXXXXXXXXXXXXXXXX             University     : Japan Digital University (JDU)
           XXXXXXXxXXXXxxxxXXXxXx;$$$$$$$$$;                        +XXXXXXXXXXXXXXXXXXXXXXXXX
-          XXXXXXXxxxxxxxXXXxXxXx;$$$$$$$;                           +$$XXXXXXXXXXXXXXXXXXXXXX             
-          xxxxxxxxxxxxxxxxxXxxx++$$$$$$:                              $XXXXXXXXXXXXXXXXXXXXXX             
-          xxxxxxxxxxxxxxxxxXxx+;+$$$$$+                      ....     :X$XXXXXXXXXXXXXXXXXXXX             
-          xxxxxxxxxxxxxxxxxxx++:X$$$$$.          .....  ....:::;;:     XXXXXXXXXXXXXXXXXXXXXX             
-          xxxxx++++++++++;;;;::.X$$$$$                 ;;;;:           XXXXXXXXXXXXXXXXXXXXXX             
-          xxxxx+xx+xx+xxxx+++;;:$$$$$$         :+:       ...    ;+.   xxXXXXXXXXXXXXXXXXXXXXX             
-          ++++x++++xxxxx+++++;;:$$$$$$: .    ..:;::.    .:.  .;;;;;  .$xXXXXXXXXXXXXXXXXXXXXX             
-          +x++++++x++++++++++;::$$$$$$$;.;  .:+;;;++;: .:+;.;;++xx+ :&&xXXXXXXXXXXXXXXXXXXXXX             
-          x++++++++++++++++++;:;$&&&&&&&x::..;+xxxXXx:::;++;;xXXxXx+&&&xXXXXXXXXXXXXXXXXXXXXX             
-          ++x+x++++++x++++++++;;:::::::::;+; ;+xX+;;::. .;.:+xX$&$X&&&&xXXxXXXXXXXXXXXXXXXXXX             
-          xxxXXXXXXXxx++++++;;;;:::::::::::. ;+XXx;:..:::;;;;;+$$X;;++xXXXXXXXXXXXXXXXXXXXXXX             
-            :X$$$$$$$$$$XXXXXXxxx++++++++++;: +XXx++;+xxxXXXXxx$&XXXXX$$&&&&&$XXXXXXXXXXXXXXX             
-            :X$$$$$$$$$$$$$$$XX$&&&&&&&&&&&&x::;+x++;++++++x+X$$&&&&&&&&&&&&&&&&$XXXXXXXXXXXX             
-            ;x$$$$$$$$$$$$$&&&&&&&&&&&&&&&&$+:;;;;;;:.:+XX;.:xxX$+&&&&&&&&&&&&&&&&XXXXXXXXXXX             
-            +$$$$+::::::;x+&&&&&&&&&&&&&&&XxXx:;;;;;+++xXXXxXX+$$$&&&&&&&&&&&&&&&&XXXXXXXXXXX             
-          .:$&&&X:::::::+&&&&&&&&&&&&&&&&&X&&&;;++++xxXXXXXXXx$&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             
+          XXXXXXXxxxxxxxXXXxXxXx;$$$$$$$;                           +$$XXXXXXXXXXXXXXXXXXXXXX             Interests
+          xxxxxxxxxxxxxxxxxXxxx++$$$$$$:                              $XXXXXXXXXXXXXXXXXXXXXX             ---------
+          xxxxxxxxxxxxxxxxxXxx+;+$$$$$+                      ....     :X$XXXXXXXXXXXXXXXXXXXX             - Artificial Intelligence
+          xxxxxxxxxxxxxxxxxxx++:X$$$$$.          .....  ....:::;;:     XXXXXXXXXXXXXXXXXXXXXX             - Reinforcement Learning
+          xxxxx++++++++++;;;;::.X$$$$$                 ;;;;:           XXXXXXXXXXXXXXXXXXXXXX             - Deep Learning
+          xxxxx+xx+xx+xxxx+++;;:$$$$$$         :+:       ...    ;+.   xxXXXXXXXXXXXXXXXXXXXXX             - Computer Vision
+          ++++x++++xxxxx+++++;;:$$$$$$: .    ..:;::.    .:.  .;;;;;  .$xXXXXXXXXXXXXXXXXXXXXX             - AI Agents
+          ++x+x++++++x++++++++;;:::::::::;+; ;+xX+;;::. .;.:+xX$&$X&&&&xXXxXXXXXXXXXXXXXXXXXX             - Large Language Models
+          xxxXXXXXXXxx++++++;;;;:::::::::::. ;+XXx;:..:::;;;;;+$$X;;++xXXXXXXXXXXXXXXXXXXXXXX             - RAG Systems
+            :X$$$$$$$$$$XXXXXXxxx++++++++++;: +XXx++;+xxxXXXXxx$&XXXXX$$&&&&&$XXXXXXXXXXXXXXX             - Mobile Game Development
+            :X$$$$$$$$$$$$$$$XX$&&&&&&&&&&&&x::;+x++;++++++x+X$$&&&&&&&&&&&&&&&&$XXXXXXXXXXXX             - Unity Engine
+            ;x$$$$$$$$$$$$$&&&&&&&&&&&&&&&&$+:;;;;;;:.:+XX;.:xxX$+&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Open Source
+            +$$$$+::::::;x+&&&&&&&&&&&&&&&XxXx:;;;;;+++xXXXxXX+$$$&&&&&&&&&&&&&&&&XXXXXXXXXXX             - Linux
+          .:$&&&X:::::::+&&&&&&&&&&&&&&&&&X&&&;;++++xxXXXXXXXx$&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX             - System Design
           ;x&&&&X:..::::X&&&&&&&&&&&&&&&&&$&&&&+;+++xXXXXXXx+&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXXX
-          :X&&&&$+X:::X+&&&&&&&&&&&&&&&&&&&&&&&&+.:;;;+++;:$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             
-          :&&&&&&X+XXXX&&&&&&&&&&&&&&&&&&&&&$&&&&X.......x&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             
-          :&&&&&&X+XXx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$&&&&&&&&&&&&&$&&&&&&&&&&&&&&&$XXXXXXXX             
+          :X&&&&$+X:::X+&&&&&&&&&&&&&&&&&&&&&&&&+.:;;;+++;:$&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             Programming
+          :&&&&&&X+XXXX&&&&&&&&&&&&&&&&&&&&&$&&&&X.......x&&&&&&&&&&&&&&&&&&&&&&&&&&XXXXXXXXX             -----------
+          :&&&&&&X+XXx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$X$&&&&&&&&&&&&&$&&&&&&&&&&&&&&&$XXXXXXXX             Main Language  : C#
           +&&&&$;::$$;X&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&$&&&&&&&&&&&&&&&&&XXXXXXXX
-          +XXX$XXXx++&&&&&&&&&&&&&&;&&$&&&&&&&&&&&&&&&&&&&&$&&&&&&$X&&&$&&&&&&&&&&&&&XXXXXXXX             
-          ;;: .   ..&&&&&&&&&&&&&&X.$$X$&&&&&&&&&&&&$$&&&&&&&&&&&$+&&$$x$$&&&&&&&&&&&&XXXXXXX             
-          ++;::::::X&&&&&&&&&&&&&&&:XXxx&&&&&&&&&&&&&&&&&&&&&&$$X;+$$$X+X$&&&&&&&&&&&&$XXXXXX             
-          ++;;:::::X&&&&&&X&$$&&&$; +X++x&&&&&&&&&&&&&&&&&&xX+;;;:XXXXX;XX&&&&&&&&&&&&&$XXXXX             
-          ++;;;;;:+$&&&&&&&X::;+$+..;x+;;x&&&&&&&&&&&&&&&$++xXX$&&&&&&&&&&&&&&&&&&&&&&&&$$XXX             
-          ++;;;;;;X&&&&+&x;;;+X+::..;x+;;;x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXX$$$X$$$XX$X             
-          x+;;;;;+$$&&&&+;X$$$$$$$$XXXXX$$$$$$$$$X$&&&&&&&$$$$&&&&&&&&&&&&&&&+X$$&&&&&$$X$$$X             
+          +XXX$XXXx++&&&&&&&&&&&&&&;&&$&&&&&&&&&&&&&&&&&&&&$&&&&&&$X&&&$&&&&&&&&&&&&&XXXXXXXX             Other Languages
+          ;;: .   ..&&&&&&&&&&&&&&X.$$X$&&&&&&&&&&&&$$&&&&&&&&&&&$+&&$$x$$&&&&&&&&&&&&XXXXXXX             ---------------
+          ++;::::::X&&&&&&&&&&&&&&&:XXxx&&&&&&&&&&&&&&&&&&&&&&$$X;+$$$X+X$&&&&&&&&&&&&$XXXXXX             - JavaScript
+          ++;;:::::X&&&&&&X&$$&&&$; +X++x&&&&&&&&&&&&&&&&&&xX+;;;:XXXXX;XX&&&&&&&&&&&&&$XXXXX             - PHP
+          ++;;;;;:+$&&&&&&&X::;+$+..;x+;;x&&&&&&&&&&&&&&&$++xXX$&&&&&&&&&&&&&&&&&&&&&&&&$$XXX             - SQL
+          ++;;;;;;X&&&&+&x;;;+X+::..;x+;;;x&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&XXX$$$X$$$XX$X             - TypeScript
+          x+;;;;;+$$&&&&+;X$$$$$$$$XXXXX$$$$$$$$$X$&&&&&&&$$$$&&&&&&&&&&&&&&&+X$$&&&&&$$X$$$X             - Dart
 =======================================================================================================
 ```
 
@@ -150,7 +148,6 @@
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-00F5A0?style=for-the-badge&logo=openai&logoColor=111111" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-7F52FF?style=for-the-badge&logo=python&logoColor=white" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=00F5A0" alt="Cybersecurity" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -162,7 +159,6 @@
 - Large Language Models (LLM)
 - RAG Systems with Llama Models and Embeddings
 - AI Agents
-- AI Security
 
 ### 🎮 Development Interests
 
@@ -209,7 +205,7 @@
 - [ ] Become an AI Engineer
 - [ ] Build intelligent autonomous systems
 - [ ] Create impactful open-source projects
-- [ ] Master the intersection of AI, Unity, and Cybersecurity
+- [ ] Master the intersection of AI and Unity
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5A0,50:2C5364,100:0F2027" alt="Footer wave" />
